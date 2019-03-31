@@ -33,6 +33,5 @@ public class Circle extends Shape {
     }
 
     private double radius;
-    public static int n = 0;
 
 }
